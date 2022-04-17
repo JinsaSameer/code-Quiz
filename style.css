@@ -1,0 +1,81 @@
+body {
+    font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+    margin: 2em;
+    background-color: #eff5f8;
+  }
+
+  
+  .container {
+    display: block;
+    margin: 60px auto;
+    text-align: center;
+     width: 80vw;
+   
+    padding-top: 20px;
+  }
+   .container h4{
+       font-size: x-large;
+   }
+  .startquiz {
+      background-color: purple;
+      font-size: larger;
+      color: white;
+     
+  }
+  nav {
+      font-size: large;
+      color: purple;
+  }
+    a {
+      text-decoration: none;
+    }  
+
+  
+  .score li{
+    
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between ;
+
+    
+  }
+  .OptionA {
+    display:block;
+    align-items: center;
+    margin-right: 100px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+  }
+  .OptionB {
+    display:block;
+    align-items: center;
+    margin-right: 100px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+  }
+  .OptionC {
+    display:block;
+    align-items: center;
+    margin-right: 100px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+  }
+  .OptionD{
+    display:block;
+    align-items: center;
+    margin-right: 100px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+  }
